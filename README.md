@@ -82,11 +82,11 @@ RozgarFind is Pakistan's local job finder mobile application built using Java an
 
 ## Demo Video
 
-Not available at this time.
+
 
 ## Privacy Policy
 
-[View Privacy Policy](docs/privacy_policy.pdf)
+[View Privacy Policy](https://github.com/Numair-Iqbal/RozgarFind/blob/main/privacy_policy.pdf)
 
 ## Future Enhancements
 
@@ -99,7 +99,7 @@ Not available at this time.
 
 ## Developed By
 
-- **Student Name:** Numair
+- **Student Name:** Numair Iqbal
 - **Semester:** 6th Semester
 - **Department:** Computer Science
 - **University:** University of Layyah
