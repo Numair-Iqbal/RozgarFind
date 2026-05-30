@@ -52,7 +52,7 @@ RozgarFind is Pakistan's local job finder mobile application built using Java an
 
 ## APK Download
 
-[Download RozgarFind APK](apk/RozgarFind.apk)
+[Download RozgarFind APK](https://github.com/Numair-Iqbal/RozgarFind/raw/main/RozgarFind.apk)
 
 ## How to Install the APK
 
