@@ -8,21 +8,21 @@ RozgarFind is Pakistan's local job finder mobile application built using Java an
 
 ## App Screenshots
 
-| Splash Screen | Login Screen | Register Screen |
-|--------------|--------------|-----------------|
-| ![Splash](App-Screenshots/Splash.Screen.jpeg) | ![Login](App-Screenshots/Login.Screen.jpeg) | ![Register](App-Screenshots/Register.Screen.jpeg) |
+| Splash | Login | Register |
+|--------|-------|----------|
+| ![Splash](App-Screenshots/splash.jpeg) | ![Login](App-Screenshots/login.jpeg) | ![Register](App-Screenshots/register.jpeg) |
 
-| Home Screen | Job List Screen | Job Detail (User) |
-|------------|-----------------|-------------------|
-| ![Home](App-Screenshots/Home.Screen.jpeg) | ![JobList](App-Screenshots/Job.List.Screen.jpeg) | ![Detail](App-Screenshots/Job.Detail.Normal.User.jpeg) |
+| Home | Job List | Job Detail (User) |
+|------|----------|-------------------|
+| ![Home](App-Screenshots/home.jpeg) | ![Job List](App-Screenshots/joblist.jpeg) | ![User](App-Screenshots/jobdetail_user.jpeg) |
 
-| Job Detail (Admin) | Apply Job Screen | Post Job Screen |
-|-------------------|------------------|-----------------|
-| ![Admin](App-Screenshots/Job.Detail.Admin.View.jpeg) | ![Apply](App-Screenshots/Apply.Job.Screen.jpeg) | ![Post](App-Screenshots/Post.Job.Screen.jpeg) |
+| Job Detail (Admin) | Apply | Post Job |
+|--------------------|-------|----------|
+| ![Admin](App-Screenshots/jobdetail_admin.jpeg) | ![Apply](App-Screenshots/apply.jpeg) | ![Post](App-Screenshots/postjob.jpeg) |
 
 | My Applications |
-|----------------|
-| ![MyApp](App-Screenshots/MyApplication.Screen.jpeg) |
+|-----------------|
+| ![My Apps](App-Screenshots/myapps.jpeg) |
 
 ## Features
 
