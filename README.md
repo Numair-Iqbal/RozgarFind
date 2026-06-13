@@ -134,17 +134,6 @@ RozgarFind is Pakistan's local job finder mobile application built using **Java*
 
 ---
 
-## 🚀 Future Enhancements
-
-- ☁️ Firebase integration for cloud storage
-- 🔔 Push notifications for new jobs
-- 🗺️ Google Maps for job location
-- 📎 CV upload feature
-- 🌐 Multi-language support (Urdu + English)
-- 🤖 Job recommendation system
-
----
-
 ## 👨‍💻 Developed By
 
 <div align="center">
