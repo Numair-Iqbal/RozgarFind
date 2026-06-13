@@ -161,6 +161,6 @@ RozgarFind is Pakistan's local job finder mobile application built using **Java*
 
 <div align="center">
 
-⭐ If you like this project, give it a star! ⭐
+
 
 </div>
